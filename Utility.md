@@ -44,7 +44,7 @@
   FileSystemUtils.freeSpaceKb("E:");
   ```
   
-**Replaced with `FileStore`**
+  **Replaced with `FileStore`**
   
 - `FileStore`
 
