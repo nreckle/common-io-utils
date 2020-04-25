@@ -6,6 +6,8 @@ public class ApacheCommonsExampleMain {
 
         FileMonitorExample.runExample();
 
+        FilterExample.runExample();
+
         InputExample.runExample();
 
         OutputExample.runExample();
